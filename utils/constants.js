@@ -7,5 +7,10 @@ module.exports = {
         STANDARD: 'standard',
 
         SOCIAL: 'social',
+    },
+
+    MODE: {
+        TEST: 'test',
+        TEST1: 'test1'    
     }
 }
